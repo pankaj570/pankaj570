@@ -131,15 +131,11 @@ If you're looking for to build scalable, resilient backend systems, let's connec
       <!-- LinkedIn Emoji -->
       🌍 LinkedIn
     </a> | 
-    <a href="https://twitter.com/yourusername" target="_blank">
-      <!-- Twitter Emoji -->
-      🐦 Twitter
-    </a> | 
     <a href="https://github.com/pankaj570" target="_blank">
       <!-- GitHub Emoji -->
       🐙 GitHub
     </a> | 
-    <a href="mailto:pankajkrsingh570@gmail.com">
+    <a href="mailto:abc@xxx.com">
       <!-- Email Emoji -->
       ✉️ Email
     </a>

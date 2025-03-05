@@ -127,7 +127,7 @@ If you're looking for to build scalable, resilient backend systems, let's connec
   <h3>Connect with Me 🌐</h3>
   <p>I'm always open to discussing ideas, projects, or just having a tech chat! Feel free to connect with me on the following platforms:</p>
   <p>
-    <a href="https://www.linkedin.com/in/yourname" target="_blank">
+    <a href="www.linkedin.com/in/pankaj-kumar-singh-28a210127" target="_blank">
       <!-- LinkedIn Emoji -->
       🌍 LinkedIn
     </a> | 
@@ -135,11 +135,11 @@ If you're looking for to build scalable, resilient backend systems, let's connec
       <!-- Twitter Emoji -->
       🐦 Twitter
     </a> | 
-    <a href="https://github.com/yourusername" target="_blank">
+    <a href="https://github.com/pankaj570/pankaj570" target="_blank">
       <!-- GitHub Emoji -->
       🐙 GitHub
     </a> | 
-    <a href="mailto:youremail@example.com">
+    <a href="mailto:pankajkrsingh570@gmail.com">
       <!-- Email Emoji -->
       ✉️ Email
     </a>

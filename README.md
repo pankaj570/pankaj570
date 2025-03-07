@@ -1,4 +1,4 @@
-![Your Logo](https://github.com/pankaj570/pankaj570/blob/main/logo_profile.png)
+![Your Logo](https://github.com/pankaj570/pankaj570/blob/main/Pankaj%20Singh.png)
 
 ## Hi! I’m Pankaj Kumar Singh, a Cloud Native API and Microservice Developer🚀
 

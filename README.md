@@ -1,8 +1,8 @@
 ![Your Logo](https://github.com/pankaj570/pankaj570/blob/main/Pankaj%20Singh.png)
 
-## Cloud Native API Developer | Microservice Developer | Integrations With AI/ML🚀
+## Cloud Native API Developer | Microservice Developer | Integration With AI/ML🚀
 
-I specialize in designing, building, and optimizing scalable and reliable APIs and microservices using modern cloud-native technologies. With a deep passion for containerization, orchestration, and cloud environments, I create applications that are resilient, highly available, and performant.
+I specialize in designing, building, and optimizing scalable and reliable APIs and microservices, integrations with AI/ML Model using modern cloud-native technologies. With a deep passion for containerization, orchestration, and cloud environments, I create applications that are resilient, highly available, and performant.
 
 ### 💻 Skills & Technologies:
 <div>
